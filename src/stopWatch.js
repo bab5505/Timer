@@ -37,7 +37,7 @@ const Stopwatch = () => {
     
     return (
         <div>
-            <h1>Stopwatch</h1>
+            <h1>Timer</h1>
             <p>{formatTime(time)}</p>
 
             <div>
