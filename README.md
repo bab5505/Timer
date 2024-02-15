@@ -1,5 +1,5 @@
-------Link to the website is below-------
-# https://timer-a60s.onrender.com/
+URL: https://timer-a60s.onrender.com/
+--------------------------------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App
 
